@@ -52,8 +52,8 @@ Before you begin, ensure you have the following installed:
 
 ## Screenshots
 
-![Screenshot 1](screenshots/screenshot1.png)
-![Screenshot 2](screenshots/screenshot2.png)
+![Preview](preview.jpg)
+
 
 ## Contributing
 
