@@ -22,16 +22,13 @@ Before you begin, ensure you have the following installed:
 1. Clone this repository to your local machine using:
 
    ```bash
-   git clone https://IndranjanaChatterjee/harry-potter-qa-generator.git
+   git clone https://github.com/IndranjanaChatterjee/Harray-Potter-Questions.git
    ```
 
-2. Navigate to the project directory:
 
-   ```bash
-   cd harry-potter-qa-generator
-   ```
+   
 
-3. Run the application:
+2. Run the application:
 
    ```bash
    python main.py
