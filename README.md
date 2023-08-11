@@ -65,10 +65,6 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 4. Push your changes to your forked repository.
 5. Submit a pull request describing your changes.
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
-
----
 
 Feel free to customize this README to better suit your project's structure and style. Good luck and have fun with your Harry Potter Question-Answer Generator using Tkinter! If you have any questions or need assistance, don't hesitate to reach out to me or the open-source community.
