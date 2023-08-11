@@ -2,20 +2,11 @@
 A tkinter project
 # Harry Potter Question-Answer Generator using Tkinter
 
-![Harry Potter Logo](harry_potter_logo.png)
+![Harry Potter Logo](https://staticg.sportskeeda.com/editor/2022/11/b22b2-16692866217763-1920.jpg)
 
 Welcome to the Harry Potter Question-Answer Generator project! This Python application utilizes the Tkinter library to create a simple graphical user interface (GUI) that generates a set of fun and challenging Harry Potter-related questions and answers. The generated questions cover various aspects of the wizarding world created by J.K. Rowling.
 
-## Table of Contents
 
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-- [Usage](#usage)
-- [Features](#features)
-- [Screenshots](#screenshots)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Getting Started
 
@@ -31,7 +22,7 @@ Before you begin, ensure you have the following installed:
 1. Clone this repository to your local machine using:
 
    ```bash
-   git clone https://github.com/your-username/harry-potter-qa-generator.git
+   git clone https://IndranjanaChatterjee/harry-potter-qa-generator.git
    ```
 
 2. Navigate to the project directory:
